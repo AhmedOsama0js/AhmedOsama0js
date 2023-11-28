@@ -9,7 +9,7 @@ Beginner Frontend Developer, Passionate About Improving My Web Development Skill
 
 
 
- ## Connect with me:
+ ## Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
 
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-osama-bb2812192/)
