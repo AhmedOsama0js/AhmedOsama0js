@@ -59,14 +59,16 @@ Beginner Frontend Developer, Passionate About Improving My Web Development Skill
 ## Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AhmedOsama0js&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AhmedOsama0js&layout=compact&theme=onedark" />
 </a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AhmedOsama0js&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
+</a>
+
 <br />
-<br />
+<!-- <br /> -->
 <!-- <p align="center">
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedOsama0js&theme=onedark" alt="MrBlueBird2" />
 </p> -->
