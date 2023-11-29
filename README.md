@@ -67,8 +67,8 @@ Beginner Frontend Developer, Passionate About Improving My Web Development Skill
 </a>
 <br />
 <br />
-<p align="center">
+<!-- <p align="center">
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedOsama0js&theme=onedark" alt="MrBlueBird2" />
-</p>
+</p> -->
 
 </div>
