@@ -35,7 +35,7 @@ Beginner Frontend Developer, Passionate About Improving My Web Development Skill
     <kbd>Library/FrameWorks</kbd>
     <br>
     <br>
-    <img width="30px" src="https://images.app.goo.gl/UeuzRwxMXepcYqXR8" />
+    <img width="30px" src="https://github.com/AhmedOsama0js/AhmedOsama0js/assets/135539823/47c99000-c2dc-44db-ba56-bcc297f89205" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
@@ -46,7 +46,8 @@ Beginner Frontend Developer, Passionate About Improving My Web Development Skill
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
+    <img src="https://github.com/AhmedOsama0js/AhmedOsama0js/assets/135539823/5026829f-3902-4c25-9267-75c8722e4613" alt="git" width="30" height="30"/> 
     <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
   </kbd>
   <kbd>
