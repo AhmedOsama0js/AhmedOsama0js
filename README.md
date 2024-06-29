@@ -4,7 +4,7 @@
 
 ## About <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 
-Beginner Frontend Developer, Passionate About Improving My Web Development Skills. I Love Transforming Ideas Into Captivating User Experiences And Continuously Seek To Learn The Latest Technologies And Tools In This Field.
+ Frontend Developer, Passionate About Improving My Web Development Skills. I Love Transforming Ideas Into Captivating User Experiences And Continuously Seek To Learn The Latest Technologies And Tools In This Field.
 
 
 
